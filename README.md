@@ -1,11 +1,4 @@
-<h1 align="center">
- <a href="https://youtu.be/hLBqGx0LhO8" target="/blank">Auto-Filter-Bot</a>
-</h1>
-
-<p align="center">🩷 Thanks for Being Here 🩷</p>
-
-
-## 🥰 Features
+pp## 🥰 Features
 
 - ✅ Dual database support  
 - ✅ Stream Mode Toggle  
@@ -67,7 +60,7 @@
 - ✅ Deploy to Koyeb + Heroku + Railway   
 - ✅ And many more...
 
-📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/TechifyBots).*
+📌 *To stay updated with all new features, join our [Updates Channel](https://t.me/Masterxkid).*
 
 ---
 
@@ -168,23 +161,3 @@ The authors are **not responsible** for any misuse or abuse of this code.
 Use at your own discretion and **always respect platform rules and copyrights**.
 
 ---
-
-## 💞 Credit
-
-- [TechifyBots](https://github.com/TechifyBots)
-
-- [DreamXBotz](https://github.com/DreamXBotz)
-
----
-
-## 😇 [Support](https://techifybots.github.io/PayWeb)
-
-## 🥳 [Developer](https://instagram.com/ImRahulDhankhar)
-
-## 🚀 [Deployment Guide](https://www.youtube.com/playlist?list=PLQrMSile4s5UnIEvWyKM1MKFuNg8Wfh2S)
-
----
-
-## 📌 Note
-
-𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.
