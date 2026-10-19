@@ -35,4 +35,4 @@ python-Levenshtein==0.27.1
 
 # Git-based Packages
 https://github.com/NBBotz/IMDBKit/archive/refs/heads/main.zip
-cinemagoer==6.8
+cinemagoer==2022.12.27
