@@ -24,7 +24,7 @@ PICS = (environ.get('PICS', 'https://graph.org/file/5446bb448597452342da9-1480cc
 QR_PIC = environ.get('QR_PIC', 'https://graph.org/file/5446bb448597452342da9-1480cc0e0765cf3576.jpg')
 MELCOW_PHOTO = environ.get("MELCOW_PHOTO", "https://i.ibb.co/2769f1rF/photo-2025-09-03-14-48-34-7548400762112442372.jpg")
 
-ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '7246154050 6632419944 1664503428').split()]
+ADMINS = [int(admin) if id_pattern.search(admin) else admin for admin in environ.get('ADMINS', '1664503428').split()]
 
 CHANNELS = [int(ch) if id_pattern.search(ch) else ch for ch in environ.get('CHANNELS', '-1002382180624').split()]
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1002105746544'))
